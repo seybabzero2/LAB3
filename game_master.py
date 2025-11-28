@@ -1,7 +1,7 @@
 from game_map import Map
 from game_logger import GameLogger
 from ships import Destroyer, Submarine, AircraftCarrier
-from players import HumanPlayer, AIPlayer, CheaterPlayer
+from LAB3.players import HumanPlayer, AIPlayer, CheaterPlayer
 import pickle
 
 PLAYER_A = 'A'
